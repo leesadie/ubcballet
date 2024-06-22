@@ -16,6 +16,6 @@ export const font_light = localFont({
 })
 
 export const font_bold = localFont({
-    src: './Sequel sans Bold Disp.ttf',
+    src: './Sequel Sans Bold Disp.ttf',
     display: 'swap'
 })
