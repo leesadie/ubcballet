@@ -67,7 +67,7 @@ const AboutClient = () => {
                                     md:py-2
                                     py-1
                                     px-3 
-                                    md:w-[110px]
+                                    md:w-[120px]
                                     w-[110px]
                                     cursor-pointer
                                     hover:bg-neutral-100
@@ -95,7 +95,7 @@ const AboutClient = () => {
                                     md:py-2
                                     py-1
                                     px-3 
-                                    md:w-[10px]
+                                    md:w-[130px]
                                     w-[120px]
                                     cursor-pointer
                                     bg-neutral-100
