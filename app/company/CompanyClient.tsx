@@ -53,7 +53,7 @@ const CompanyClient = () => {
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
                             Company dancers perform at showcases including Dance Horizons and Thunderbird Dance Team,
-                            as well as competitions such as Surrey Dance Festival. This year, we're planning our 
+                            as well as competitions such as Surrey Dance Festival. This year, we are planning our 
                             own show as well! More info TBA.
                         </div>
                     </div>
@@ -178,7 +178,7 @@ const CompanyClient = () => {
                             What is the time commitment for Company?
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm mt-5 md:mx-10 mx-6">
-                            Company involves mandatory weekly rehearsals. Rehearsals this year will be on Monday's from 
+                            Company involves mandatory weekly rehearsals. Rehearsals this year will be every Monday from 
                             7:30-9:30. Additional rehearsals may be added closer to show dates as needed.
                             <br />
                             Attending at least one class a week is also now required for company dancers. If none of the 
@@ -199,7 +199,7 @@ const CompanyClient = () => {
                             You can still opt to pay by drop-in.
                         </div>
                         <div className={`text-neutral-900 md:mt-10 mt-5 md:text-lg text-sm md:mx-10 mx-6 ${font_bold.className}`}>
-                            What if I can't make some rehearsals?
+                            What if I am unable to make some rehearsals?
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm mt-5 md:mx-10 mx-6">
                             Extenuating circumstances, such as illness, etc. are excused. However, we ask that you catch up on any new

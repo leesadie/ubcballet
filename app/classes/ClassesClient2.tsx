@@ -48,7 +48,7 @@ const ClassesClient2 = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            For those with little to no dance background, you'll learn the basic foundations of classical ballet at this level.
+                            For those with little to no dance background, you will learn the basic foundations of classical ballet at this level.
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
                             <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>

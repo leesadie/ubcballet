@@ -151,7 +151,7 @@ const WorkshopsClient = () => {
                             Join us for a repertoire workshop on November 14th, 2024!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Learn excerpts from Balanchine's Serenade. The workshop will begin with a short technique warm-up,
+                            Learn excerpts from Serenade by Balanchine. The workshop will begin with a short technique warm-up,
                             followed by the repertoire, and dancing in small groups.
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
@@ -236,7 +236,7 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                            Valentine's Partnering
+                            Valentines Partnering
                         </div>
                     </div>
                     <div
@@ -247,7 +247,7 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Join us for a Valentine's Day partnering workshop on February 13th, 2025!
+                            Join us for a Valentines Day partnering workshop on February 13th, 2025!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
                             Learn the basics of pas de deux (dance of two) with a friend or partner! The workshop will begin 
@@ -323,7 +323,7 @@ const WorkshopsClient = () => {
                             Join us for a neoclassical ballet workshop on March 6th, 2024!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Learn a solo from Wayne McGregor's Chroma. The workshop will consist of a short warm-up, learning 
+                            Learn a solo from Chroma by Wayne McGregor. The workshop will consist of a short warm-up, learning 
                             the solo, and dancing in small groups.
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
