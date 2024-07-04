@@ -1,5 +1,6 @@
 'use client';
 
+import Image from "next/image";
 import Container from "../Container";
 import Button from "./Button";
 
@@ -14,24 +15,33 @@ const Footer = () => {
                             flex-row
                             items-center
                             justify-center
-                            gap-16
+                            gap-5
                             lg:text-base
                             text-sm
                             pt-5
                         "
                     >
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ubcballet/">
-                            <Button 
-                                label="Instagram"
-                                onClick={() => {}}
+                        <div>
+                            <Image 
+                                src='/images/iconwhite2.svg'
+                                alt="icon"
+                                height={50}
+                                width={50}
+                                className="object-contain h-10 w-10"
                             />
-                        </a>
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC31GRZxZGhT894b4ADx5_oA">
-                            <Button 
-                                label="YouTube"
-                                onClick={() => {}}
+                        </div>
+                        <div className="flex flex-row gap-1">
+                            <Image 
+                                src='/images/copyright.svg'
+                                alt="copyright"
+                                height={10}
+                                width={10}
+                                className="object-contain"
                             />
-                        </a>
+                            <div className="text-white text-xs">
+                                Copyright UBC Ballet Club 2024.
+                            </div>
+                        </div>
                     </div>
                 </Container>
             </div>

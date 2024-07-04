@@ -126,7 +126,7 @@ const Hero = () => {
                  <div className="flex flex-col ml-5">
                     <div className="absolute inset-y-0 left-10 top-96 text-neutral-100">
                         <div className="text-2xl">
-                            Performances
+                            Learning
                         </div>
                         <div className={`text-8xl ${font_bold.className}`}>
                             WORKSHOPS
@@ -145,14 +145,14 @@ const Hero = () => {
                             rounded-full 
                             py-1
                             px-3 
-                            w-[130px]
+                            w-[145px]
                             cursor-pointer
                             hover:bg-neutral-900/0
                             hover:text-neutral-100
                             transition"
-                        onClick={() => router.push('/schedule')}
+                        onClick={() => router.push('/workshops')}
                         >
-                        View Schedule
+                        View Workshops
                     </div>
                 </div>
             </div>

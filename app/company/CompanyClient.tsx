@@ -53,8 +53,8 @@ const CompanyClient = () => {
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
                             Company dancers perform at showcases including Dance Horizons and Thunderbird Dance Team,
-                            as well as competitions such as Surrey Dance Festival. This year, we are planning our 
-                            own show as well! More info TBA.
+                            as well as competitions such as Surrey Dance Festival. This year, we are planning an internal 
+                            viewing day as well. More info TBA.
                         </div>
                     </div>
                 </div>
@@ -80,11 +80,11 @@ const CompanyClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Auditions for the 2024-2025 school year will take place September 16th, 2024.
+                            Auditions for the 2024-2025 school year will take place Monday, September 16th, 2024.
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            The audition will include 1 hour of technique class and 1 hour of repertoire. Extra
-                            time be added as needed, depending on number of dancers auditioning. Please arrive at 
+                            The audition will include 1 hour of technique class, 1 hour of classical repertoire, and 1 hour of contemporary ballet repertoire. 
+                            Extra time be added as needed, depending on number of dancers auditioning. Please arrive at 
                             least 10 minutes early to sign in and warm up. 
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
@@ -100,7 +100,7 @@ const CompanyClient = () => {
                                 Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                6:00-8:00pm
+                                5:30-8:30pm
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -116,7 +116,7 @@ const CompanyClient = () => {
                                 Audition Fee:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $5 all dancers
+                                $2 all dancers
                             </div>
                         </div>
                         <div
@@ -145,8 +145,9 @@ const CompanyClient = () => {
                             "
                             onClick={() => {}}
                         >
-                            Pre-Register Now
-                            {/* link to Google form */}
+                            <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/Zue9EhNk47MaAkLP9">
+                                Pre-Register Now
+                            </a>
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
                             *Pre-Registration is not required, but will help us with planning.
@@ -188,15 +189,15 @@ const CompanyClient = () => {
                             Is there a financial cost to joining Company?
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm mt-5 md:mx-10 mx-6">
-                            Company members do have to pay for weekly class, either by membership or drop-in. Other than this,
+                            Company members do have to pay for weekly class by membership. Other than this,
                             there is no additional cost.
                         </div>
                         <div className={`text-neutral-900 md:mt-10 mt-5 md:text-lg text-sm md:mx-10 mx-6 ${font_bold.className}`}>
                             Do I have to be a member in order to join?
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm mt-5 md:mx-10 mx-6">
-                            No. However, since weekly class is mandatory for company dancers, you may want to purchase a membership.
-                            You can still opt to pay by drop-in.
+                            Yes, as per AMS policies, company dancers must be a member. However, memberships can be purchased upon acceptance 
+                            and is not needed for the audition.
                         </div>
                         <div className={`text-neutral-900 md:mt-10 mt-5 md:text-lg text-sm md:mx-10 mx-6 ${font_bold.className}`}>
                             What if I am unable to make some rehearsals?
@@ -209,10 +210,20 @@ const CompanyClient = () => {
                             your place in group pieces.
                         </div>
                         <div className={`text-neutral-900 md:mt-10 mt-5 md:text-lg text-sm md:mx-10 mx-6 ${font_bold.className}`}>
+                            What is the company performance schedule this year?
+                        </div>
+                        <div className="text-neutral-900 md:text-lg text-sm mt-5 md:mx-10 mx-6">
+                            The performance schedule is currently tentative, although dancers can expect to have at least one performance 
+                            at the end of each semester, typically the weekend before finals.
+                            <br />
+                            Participation in these shows are required unless extenuating circumstances occur. Planning accordingly for finals, 
+                            assignments, and projects is the responsibility of each dancer.
+                        </div>
+                        <div className={`text-neutral-900 md:mt-10 mt-5 md:text-lg text-sm md:mx-10 mx-6 ${font_bold.className}`}>
                             How will I be held accountable for attending rehearsals and classes?
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm mt-5 md:mx-10 mx-6">
-                            All company dancers will be required to sign a contract upon acceptance, indicating your understanding of
+                            All company dancers will be required to sign an agreement upon acceptance, indicating your understanding of
                             these policies.
                         </div>
                         <div className={`text-neutral-900 md:mt-10 mt-5 md:text-lg text-sm md:mx-10 mx-6 mb-10 ${font_bold.className}`}>

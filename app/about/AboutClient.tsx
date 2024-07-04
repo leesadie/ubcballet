@@ -51,7 +51,10 @@ const AboutClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Add info here.
+                            UBC Ballet Club is committed to creating, performing, and teaching contemporary ballet at UBC.
+                            We believe in making ballet accessible to everyone by offering weekly ballet classes for a range of levels, monthly
+                            workshops, and a performance company. We hope to help grow the dance community at UBC, and provide a welcoming 
+                            environment where ballet can be shared.
                         </div>
                         <div className="flex flex-row gap-2 md:mb-10 mb-32">
                             <div
@@ -67,7 +70,7 @@ const AboutClient = () => {
                                     md:py-2
                                     py-1
                                     px-3 
-                                    md:w-[120px]
+                                    md:w-[115px]
                                     w-[110px]
                                     cursor-pointer
                                     hover:bg-neutral-100

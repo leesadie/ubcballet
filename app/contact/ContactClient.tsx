@@ -37,6 +37,9 @@ const ContactClient = () => {
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
                             Get in touch
                         </div>
+                        <div className="text-neutral-900 md:text-xl text-base md:ml-10 ml-6 mt-2">
+                            Have questions or want to connect? Send us a message via email or Instagram and we'll get back to you as soon as possible!
+                        </div>
                     </div>
                     <div
                         className="

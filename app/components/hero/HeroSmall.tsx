@@ -123,14 +123,14 @@ const HeroSmall = () => {
                             rounded-full 
                             py-1
                             px-2
-                            w-[110px]
+                            w-[120px]
                             cursor-pointer
                             hover:bg-neutral-900/0
                             hover:text-neutral-100
                             transition"
-                        onClick={() => router.push('/schedule')}
+                        onClick={() => router.push('/workshop')}
                         >
-                        View Schedule
+                        View Workshops
                     </div>
                 </div>
             </div>

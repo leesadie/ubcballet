@@ -93,8 +93,9 @@ const MembershipsClient = () => {
                                 "
                                 onClick={() => {}}
                             >
-                                Become a Member
-                                {/* link to Google form */}
+                                <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/4y6uhW94DkewYmKQA">
+                                    Become a Member
+                                </a>
                             </div>
                             <div
                                 className="
@@ -192,8 +193,9 @@ const MembershipsClient = () => {
                                 "
                                 onClick={() => {}}
                             >
-                                Become a Member
-                                {/* link to Google form */}
+                                <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/4y6uhW94DkewYmKQA">
+                                    Become a Member
+                                </a>
                             </div>
                             <div
                                 className="

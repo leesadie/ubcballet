@@ -84,7 +84,7 @@ const WorkshopsClient = () => {
                                 UBC Drop-In:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $5 per class / free for members
+                                $7 per class / free for members
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
@@ -92,7 +92,7 @@ const WorkshopsClient = () => {
                                 Non-UBC Drop-In:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $10 per class / free for members
+                                $12 per class / free for members
                             </div>
                         </div>
                         <div
@@ -121,8 +121,9 @@ const WorkshopsClient = () => {
                             "
                             onClick={() => {}}
                         >
-                            Book Now
-                            {/* link to Google form */}
+                            <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/Pkb5qk2Z1BHerLrK6">
+                                Book Now
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -183,7 +184,7 @@ const WorkshopsClient = () => {
                                 UBC Drop-In:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $5 per class / free for members
+                                $7 per class / free for members
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
@@ -191,37 +192,11 @@ const WorkshopsClient = () => {
                                 Non-UBC Drop-In:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $10 per class / free for members
+                                $12 per class / free for members
                             </div>
                         </div>
-                        <div
-                            className="
-                                text-neutral-100
-                                md:text-base
-                                text-sm
-                                bg-neutral-900
-                                outline
-                                outline-neutral-900
-                                outline-[1px]
-                                rounded-full 
-                                md:py-2
-                                py-1
-                                px-3 
-                                md:w-[100px]
-                                w-[90px]
-                                cursor-pointer
-                                hover:bg-neutral-100
-                                hover:text-neutral-900
-                                transition
-                                md:mt-10
-                                md:ml-10
-                                ml-6
-                                mt-10
-                            "
-                            onClick={() => {}}
-                        >
-                            Book Now
-                            {/* link to Google form */}
+                        <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
+                            *Bookings will be available at a later date. Check our social media for updates!
                         </div>
                     </div>
                 </div>
@@ -282,7 +257,7 @@ const WorkshopsClient = () => {
                                 UBC Drop-In:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $5 per class / free for members
+                                $7 per class / free for members
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
@@ -290,7 +265,7 @@ const WorkshopsClient = () => {
                                 Non-UBC Drop-In:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $10 per class / free for members
+                                $12 per class / free for members
                             </div>
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
@@ -355,7 +330,7 @@ const WorkshopsClient = () => {
                                 UBC Drop-In:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $5 per class / free for members
+                                $7 per class / free for members
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
@@ -363,7 +338,7 @@ const WorkshopsClient = () => {
                                 Non-UBC Drop-In:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $10 per class / free for members
+                                $12 per class / free for members
                             </div>
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">

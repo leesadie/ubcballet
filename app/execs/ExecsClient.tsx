@@ -39,6 +39,30 @@ const ExecsClient = () => {
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
                             Sienna Muller — President
                         </div>
+                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Year:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                3
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Major:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                Microbiology & Immunology
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Favorite Ballet:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
+                        </div>
                     </div>
                     <div
                         className="
@@ -70,6 +94,30 @@ const ExecsClient = () => {
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
                             Maria Djordjevic — VP Internal
+                        </div>
+                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Year:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                3
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Major:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                Kinesiology
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Favorite Ballet:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
                         </div>
                     </div>
                     <div
@@ -103,6 +151,30 @@ const ExecsClient = () => {
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 mr-2 md:mr-0 ${font_bold.className}`}>
                             Sadie Lee — VP External, Teacher
                         </div>
+                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Year:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                3
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Major:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                Cognitive Systems; Data Science
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Favorite Ballet:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                Jewels
+                            </div>
+                        </div>
                     </div>
                     <div
                         className="
@@ -134,6 +206,30 @@ const ExecsClient = () => {
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
                             Katherine Y. — Treasurer
+                        </div>
+                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Year:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                3
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Major:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                Commerce
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Favorite Ballet:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
                         </div>
                     </div>
                     <div
@@ -167,6 +263,30 @@ const ExecsClient = () => {
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
                             Nour Eid - Teacher
                         </div>
+                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Year:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                3
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Major:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                International Economics
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Favorite Ballet:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
+                        </div>
                     </div>
                     <div
                         className="
@@ -198,6 +318,30 @@ const ExecsClient = () => {
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
                             Laurenne DuManoir - Choreographer
+                        </div>
+                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Year:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                2
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Major:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Favorite Ballet:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
                         </div>
                     </div>
                     <div
@@ -231,6 +375,30 @@ const ExecsClient = () => {
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 mr-2 md:mr-0 ${font_bold.className}`}>
                             Yurina Kanehara - Choreographer
                         </div>
+                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Year:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                2
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Major:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                Kinesiology
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Favorite Ballet:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
+                        </div>
                     </div>
                     <div
                         className="
@@ -261,7 +429,31 @@ const ExecsClient = () => {
                         "
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                            Annabel Yu - VP Marketing
+                            Annabel Lu - VP Marketing
+                        </div>
+                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Year:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                2
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Major:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Favorite Ballet:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
                         </div>
                     </div>
                     <div
@@ -294,6 +486,30 @@ const ExecsClient = () => {
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
                             Ruby Li - Marketing Coordinator
+                        </div>
+                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Year:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                2
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Major:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
+                        </div>
+                        <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
+                                Favorite Ballet:
+                            </div>
+                            <div className="text-neutral-900 md:text-2xl text-base">
+                                TBA
+                            </div>
                         </div>
                     </div>
                     <div
