@@ -38,7 +38,7 @@ const ContactClient = () => {
                             Get in touch
                         </div>
                         <div className="text-neutral-900 md:text-xl text-base md:ml-10 ml-6 mt-2">
-                            Have questions or want to connect? Send us a message via email or Instagram and we'll get back to you as soon as possible!
+                            Have questions or want to connect? Send us a message via email or Instagram and we will get back to you as soon as possible!
                         </div>
                     </div>
                     <div
