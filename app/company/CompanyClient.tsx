@@ -83,7 +83,7 @@ const CompanyClient = () => {
                             Auditions for the 2024-2025 school year will take place Monday, September 16th, 2024.
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            The audition will include 1 hour of technique class, 1 hour of classical repertoire, and 1 hour of contemporary ballet repertoire. 
+                            The audition will include 1 hour, 15 minutes of technique class and 1 hour, 45 minutes of repertoire. 
                             Extra time be added as needed, depending on number of dancers auditioning. Please arrive at 
                             least 10 minutes early to sign in and warm up. 
                         </div>
@@ -116,7 +116,7 @@ const CompanyClient = () => {
                                 Audition Fee:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $2 all dancers
+                                $5 all dancers
                             </div>
                         </div>
                         <div

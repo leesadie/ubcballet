@@ -60,7 +60,7 @@ const ExecsClient = () => {
                                 Favorite Ballet:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                Don Quixote
                             </div>
                         </div>
                     </div>
@@ -73,7 +73,7 @@ const ExecsClient = () => {
                     >
                         <div className="">
                             <Image 
-                                src='/images/sienna2.svg'
+                                src='/images/sienna.svg'
                                 alt="sienna"
                                 height={300}
                                 width={300}
@@ -116,7 +116,7 @@ const ExecsClient = () => {
                                 Favorite Ballet:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                Don Quixote
                             </div>
                         </div>
                     </div>
@@ -129,7 +129,7 @@ const ExecsClient = () => {
                     >
                         <div>
                             <Image 
-                                src='/images/maria2.svg'
+                                src='/images/maria.svg'
                                 alt="maria"
                                 height={300}
                                 width={300}
@@ -164,7 +164,7 @@ const ExecsClient = () => {
                                 Major:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                Cognitive Systems; Data Science
+                                Cognitive Systems & Data Science
                             </div>
                         </div>
                         <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
@@ -172,7 +172,7 @@ const ExecsClient = () => {
                                 Favorite Ballet:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                Jewels
+                                Manon
                             </div>
                         </div>
                     </div>
@@ -205,7 +205,7 @@ const ExecsClient = () => {
                         "
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                            Katherine Y. — Treasurer
+                            Katherine Yang — Treasurer
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
                             <div className={`text-neutral-900 md:text-2xl text-base ${font_bold.className}`}>
@@ -220,7 +220,7 @@ const ExecsClient = () => {
                                 Major:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                Commerce
+                                Marketing & Business Analytics
                             </div>
                         </div>
                         <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
@@ -228,7 +228,7 @@ const ExecsClient = () => {
                                 Favorite Ballet:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                Giselle
                             </div>
                         </div>
                     </div>
@@ -241,7 +241,7 @@ const ExecsClient = () => {
                     >
                         <div>
                             <Image 
-                                src='/images/katherine2.svg'
+                                src='/images/tingyu.svg'
                                 alt="katherine"
                                 height={300}
                                 width={300}
@@ -284,7 +284,7 @@ const ExecsClient = () => {
                                 Favorite Ballet:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                Swan Lake
                             </div>
                         </div>
                     </div>
@@ -297,7 +297,7 @@ const ExecsClient = () => {
                     >
                         <div>
                             <Image 
-                                src='/images/placeholder2.svg'
+                                src='/images/nour.svg'
                                 alt="nour"
                                 height={300}
                                 width={300}
@@ -332,7 +332,7 @@ const ExecsClient = () => {
                                 Major:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                English Lit & Lang
                             </div>
                         </div>
                         <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
@@ -340,7 +340,7 @@ const ExecsClient = () => {
                                 Favorite Ballet:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                The Nutrcracker
                             </div>
                         </div>
                     </div>
@@ -353,7 +353,7 @@ const ExecsClient = () => {
                     >
                         <div>
                             <Image 
-                                src='/images/placeholder2.svg'
+                                src='/images/laurenne.svg'
                                 alt="laurenne"
                                 height={300}
                                 width={300}
@@ -380,7 +380,7 @@ const ExecsClient = () => {
                                 Year:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                2
+                                4
                             </div>
                         </div>
                         <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
@@ -396,7 +396,7 @@ const ExecsClient = () => {
                                 Favorite Ballet:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                Le Corsaire
                             </div>
                         </div>
                     </div>
@@ -409,7 +409,7 @@ const ExecsClient = () => {
                     >
                         <div>
                             <Image 
-                                src='/images/placeholder2.svg'
+                                src='/images/yurina.svg'
                                 alt="yurina"
                                 height={300}
                                 width={300}
@@ -500,7 +500,7 @@ const ExecsClient = () => {
                                 Major:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                Neuroscience
                             </div>
                         </div>
                         <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
@@ -508,7 +508,7 @@ const ExecsClient = () => {
                                 Favorite Ballet:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                La Bayadere
                             </div>
                         </div>
                     </div>
@@ -521,7 +521,7 @@ const ExecsClient = () => {
                     >
                         <div>
                             <Image 
-                                src='/images/ruby2.svg'
+                                src='/images/ruby.svg'
                                 alt="ruby"
                                 height={300}
                                 width={300}
