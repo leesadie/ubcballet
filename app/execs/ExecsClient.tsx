@@ -444,7 +444,7 @@ const ExecsClient = () => {
                                 Major:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                Microbiology & Immunology + MM
                             </div>
                         </div>
                         <div className="flex flex-row mt-2 md:mx-10 mx-6 gap-1">
@@ -452,7 +452,7 @@ const ExecsClient = () => {
                                 Favorite Ballet:
                             </div>
                             <div className="text-neutral-900 md:text-2xl text-base">
-                                TBA
+                                Giselle
                             </div>
                         </div>
                     </div>
@@ -465,7 +465,7 @@ const ExecsClient = () => {
                     >
                         <div>
                             <Image 
-                                src='/images/placeholder2.svg'
+                                src='/images/annabel.svg'
                                 alt="annabel"
                                 height={300}
                                 width={300}
