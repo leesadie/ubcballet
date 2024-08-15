@@ -128,6 +128,7 @@ const WorkshopsClient = () => {
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
+                {/*
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -184,7 +185,7 @@ const WorkshopsClient = () => {
                                 UBC Drop-In:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $7 per class / free for members
+                                $5 per class / free for members
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
@@ -192,7 +193,7 @@ const WorkshopsClient = () => {
                                 Non-UBC Drop-In:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                $12 per class / free for members
+                                $10 per class / free for members
                             </div>
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
@@ -201,6 +202,7 @@ const WorkshopsClient = () => {
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
+                */}
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -222,7 +224,7 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Join us for a Valentines Day partnering workshop on February 13th, 2025!
+                            Join us for a Valentines Day partnering workshop in February 2025!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
                             Learn the basics of pas de deux (dance of two) with a friend or partner! The workshop will begin 
@@ -233,7 +235,7 @@ const WorkshopsClient = () => {
                                 Date:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                February 13th, 2025
+                                TBA
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -274,6 +276,7 @@ const WorkshopsClient = () => {
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
+                {/*
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -346,6 +349,7 @@ const WorkshopsClient = () => {
                         </div>
                     </div>
                 </div>
+                */}
             </div>
         </Container>
     );

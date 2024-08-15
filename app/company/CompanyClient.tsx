@@ -83,8 +83,8 @@ const CompanyClient = () => {
                             Auditions for the 2024-2025 school year will take place Monday, September 16th, 2024.
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            The audition will include 1 hour, 15 minutes of technique class and 1 hour, 45 minutes of repertoire. 
-                            Extra time be added as needed, depending on number of dancers auditioning. Please arrive at 
+                            The audition will include 1 hour of technique class and 1 hour of repertoire. 
+                            Extra time will be added as needed, depending on number of dancers auditioning. Please arrive at 
                             least 10 minutes early to sign in and warm up. 
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
@@ -100,7 +100,7 @@ const CompanyClient = () => {
                                 Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                5:30-8:30pm
+                                5:30-7:30pm
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -109,14 +109,6 @@ const CompanyClient = () => {
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
                                 LIFE 26
-                            </div>
-                        </div>
-                        <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
-                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
-                                Audition Fee:
-                            </div>
-                            <div className="text-neutral-900 md:text-lg text-base">
-                                $5 all dancers
                             </div>
                         </div>
                         <div
