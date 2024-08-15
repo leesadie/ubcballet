@@ -71,7 +71,7 @@ const ClassesClient2 = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                NEST 2301
+                                TBA
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
@@ -148,7 +148,7 @@ const ClassesClient2 = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                LIFE 26
+                                TBA
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
