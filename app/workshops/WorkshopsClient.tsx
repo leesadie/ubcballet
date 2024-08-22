@@ -60,7 +60,7 @@ const WorkshopsClient = () => {
                                 Date:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                October 10th, 2024
+                                October 2024
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -68,7 +68,7 @@ const WorkshopsClient = () => {
                                 Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                5:00-6:00pm
+                                TBA
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -76,7 +76,7 @@ const WorkshopsClient = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                NEST 2301
+                                TBA
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
