@@ -63,7 +63,7 @@ const ClassesClient2 = () => {
                                 Times:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                5:00-6:00pm
+                                TBA
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
@@ -140,7 +140,7 @@ const ClassesClient2 = () => {
                                 Times:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                6:00-7:30pm
+                                TBA
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
