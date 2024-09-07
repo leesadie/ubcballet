@@ -100,8 +100,11 @@ const CompanyClient = () => {
                                 Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                5:30-7:30pm
+                                6:00-8:00 PM
                             </div>
+                        </div>
+                        <div className={`text-neutral-900 md:mt-3 md:mx-10 mx-6 text-base ${font_bold.className}`}>
+                            *Please arrive at least 10-15 minutes early to check in and get your audition number!
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
                             <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>

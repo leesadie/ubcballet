@@ -72,6 +72,37 @@ const ContactClient = () => {
                                 @ubcballet
                             </a>
                         </div>
+                        <div className={`text-neutral-900 text-lg ml-20 mt-10 ${font_bold.className}`}>
+                            Join our mailing list:
+                        </div>
+                        <div
+                            className="
+                                hover:text-neutral-100
+                                md:text-base
+                                text-sm
+                                hover:bg-neutral-900
+                                outline
+                                outline-neutral-900
+                                outline-[1px]
+                                rounded-full 
+                                md:py-2
+                                py-1
+                                px-3 
+                                md:w-[110px]
+                                w-[110px]
+                                cursor-pointer
+                                bg-neutral-100
+                                text-neutral-900
+                                transition
+                                mt-3
+                                ml-20
+                                mb-10
+                            "
+                        >
+                            <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/4B2w8HN4vFXX5c2f7">
+                                Sign up here
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
