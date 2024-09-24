@@ -49,7 +49,7 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Join us for a pointe workshop on October 10th, 2024!
+                            Join us for a pointe workshop on October 17th, 2024!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
                             Learn the fundamentals of pointe work, strengthening exercises, and watch a demonstration from company dancers. 
@@ -60,7 +60,7 @@ const WorkshopsClient = () => {
                                 Date:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                October 2024
+                                October 17, 2024
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -76,7 +76,7 @@ const WorkshopsClient = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                TBA
+                                LIFE 26
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
