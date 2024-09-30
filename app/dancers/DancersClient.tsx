@@ -33,9 +33,10 @@ const DancersClient = () => {
                 <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
                     Coming Soon
                 </div>
-                <div className="text-neutral-900 md:text-lg text-base mt-5 md:mx-10 mx-6">
-                    Meet our 24-25 season company dancers after auditions!
+                <div className="text-neutral-900 md:text-lg text-base mt-5 md:mx-10 mx-6 mb-20">
+                    Meet our 24-25 season company dancers!
                 </div>
+                {/*
                 <div
                     className="
                         hover:text-neutral-100
@@ -64,6 +65,7 @@ const DancersClient = () => {
                 >
                     Audition Now
                 </div>
+                */}
             </div>
         </Container>
     );

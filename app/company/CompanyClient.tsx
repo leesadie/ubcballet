@@ -65,7 +65,7 @@ const CompanyClient = () => {
                             md:col-span-1
                             md:row-span-2
                             md:w-full
-                            md:h-[50vh]
+                            md:h-[25vh]
                         "
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
@@ -80,7 +80,35 @@ const CompanyClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Auditions for the 2024-2025 school year will take place Monday, September 16th, 2024.
+                            Auditions for the 2024-2025 term took place Monday, September 16th, 2024. Stay tuned for more info about
+                            upcoming performances!
+                        </div>
+                    </div>
+                </div>
+                {/* 
+                <div className="md:grid md:grid-cols-2 md:grid-rows-1 md:gap-0 flex flex-col">
+                    <div
+                        className="
+                            md:col-span-1
+                            md:row-span-1
+                            md:w-full
+                            md:h-[50vh]
+                        "
+                    >
+                        <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
+                            24-25 Auditions
+                        </div>
+                    </div>
+                    <div
+                        className="
+                            col-span-1
+                            row-span-1
+                            w-full
+                        "
+                    >
+                        <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
+                            Auditions for the 2024-2025 term took place Monday, September 16th, 2024. Stay tuned for more info about
+                            upcoming performances!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
                             The audition will include 1 hour of technique class and 1 hour of repertoire. 
@@ -149,6 +177,7 @@ const CompanyClient = () => {
                         </div>
                     </div>
                 </div>
+                */}
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
