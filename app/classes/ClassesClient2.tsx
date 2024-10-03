@@ -55,15 +55,15 @@ const ClassesClient2 = () => {
                                 Days:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                Every Tuesday
+                                Every Thursday
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
                             <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
-                                Times:
+                                Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                TBA
+                                6:00-7:00 PM
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
@@ -71,7 +71,7 @@ const ClassesClient2 = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                TBA
+                                LIFE 5
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
@@ -137,10 +137,10 @@ const ClassesClient2 = () => {
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
                             <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
-                                Times:
+                                Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                TBA
+                                7:30-9:00 PM
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
@@ -148,7 +148,7 @@ const ClassesClient2 = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                TBA
+                                LIFE 26
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
