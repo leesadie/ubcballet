@@ -27,11 +27,42 @@ const ShopLanding = () => {
                     </div>
                 </div>
                 <hr className="border-neutral-300 mt-10 mx-10"/>
-                <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                    Coming Soon
-                </div>
-                <div className="text-neutral-900 md:text-lg text-base mt-5 md:mx-10 mx-6 md:mb-10 mb-40">
-                    Stay tuned for merch drops and more!
+                    <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
+                        Term 1 Merch
+                    </div>
+                    <div className="text-neutral-900 md:text-lg text-base mt-5 md:mx-10 mx-6">
+                        Hoodies and long sleeves this term!
+                    </div>
+                <div
+                    className="
+                        text-neutral-100
+                        md:text-base
+                        text-sm
+                        bg-neutral-900
+                        outline
+                        outline-neutral-900
+                        outline-[1px]
+                        rounded-full 
+                        md:py-2
+                        py-1
+                        px-3 
+                        md:w-[110px]
+                        w-[90px]
+                        cursor-pointer
+                        hover:bg-neutral-100
+                        hover:text-neutral-900
+                        transition
+                        md:mt-10
+                        md:ml-10
+                        ml-6
+                        mt-10
+                        mb-20
+                    "
+                    onClick={() => {}}
+                >
+                    <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/pWEuX4snJxCFaDbP8">
+                        Order Now
+                    </a>
                 </div>
             </div>
         </Container>
