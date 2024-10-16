@@ -49,10 +49,10 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Join us for a pointe workshop on October 22nd, 2024!
+                            Join us for a pointe workshop on Tuesday, October 22nd!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Learn the fundamentals of pointe work, strengthening exercises, and watch a demonstration from company dancers. 
+                            Learn the fundamentals of pointe work! 
                             No experience or pointe shoes necessary!
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
@@ -128,7 +128,7 @@ const WorkshopsClient = () => {
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
-                {/*
+                
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -139,7 +139,7 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                            Repertoire Workshop
+                            Stretch/Strength Workshop
                         </div>
                     </div>
                     <div
@@ -150,18 +150,18 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Join us for a repertoire workshop on November 14th, 2024!
+                            Join us for a stretch/strength workshop on Tuesday, November 5th!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Learn excerpts from Serenade by Balanchine. The workshop will begin with a short technique warm-up,
-                            followed by the repertoire, and dancing in small groups.
+                            Learn stretch and strengthening exercises specifically for ballet.
+                            Please bring a mat if you have one!
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
                             <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
                                 Date:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                November 14th, 2024
+                                November 5th, 2024
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -169,7 +169,7 @@ const WorkshopsClient = () => {
                                 Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                5:00-6:00pm
+                                5:30-6:30pm
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -177,81 +177,7 @@ const WorkshopsClient = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                NEST 2301
-                            </div>
-                        </div>
-                        <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
-                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
-                                UBC Drop-In:
-                            </div>
-                            <div className="text-neutral-900 md:text-lg text-base">
-                                $5 per class / free for members
-                            </div>
-                        </div>
-                        <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
-                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
-                                Non-UBC Drop-In:
-                            </div>
-                            <div className="text-neutral-900 md:text-lg text-base">
-                                $10 per class / free for members
-                            </div>
-                        </div>
-                        <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
-                            *Bookings will be available at a later date. Check our social media for updates!
-                        </div>
-                    </div>
-                </div>
-                <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
-                */}
-                <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
-                    <div
-                        className="
-                            md:col-span-1
-                            md:row-span-2
-                            md:w-full
-                            md:h-[50vh]
-                        "
-                    >
-                        <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                            Valentines Partnering
-                        </div>
-                    </div>
-                    <div
-                        className="
-                            col-span-1
-                            row-span-2
-                            w-full
-                        "
-                    >
-                        <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Join us for a Valentines Day partnering workshop in February 2025!
-                        </div>
-                        <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Learn the basics of pas de deux (dance of two) with a friend or partner! The workshop will begin 
-                            with a short warm-up, followed by partnering and a demonstration by company dancers.
-                        </div>
-                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
-                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
-                                Date:
-                            </div>
-                            <div className="text-neutral-900 md:text-lg text-base">
-                                TBA
-                            </div>
-                        </div>
-                        <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
-                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
-                                Time:
-                            </div>
-                            <div className="text-neutral-900 md:text-lg text-base">
-                                TBA
-                            </div>
-                        </div>
-                        <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
-                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
-                                Location:
-                            </div>
-                            <div className="text-neutral-900 md:text-lg text-base">
-                                TBA
+                                LIFE 5
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
@@ -271,7 +197,81 @@ const WorkshopsClient = () => {
                             </div>
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
-                            *Bookings will be available in Term 2.
+                            *Registration will open one week before the workshop date!
+                        </div>
+                    </div>
+                </div>
+                <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
+                
+                <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
+                    <div
+                        className="
+                            md:col-span-1
+                            md:row-span-2
+                            md:w-full
+                            md:h-[50vh]
+                        "
+                    >
+                        <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
+                            Nutcracker Workshop
+                        </div>
+                    </div>
+                    <div
+                        className="
+                            col-span-1
+                            row-span-2
+                            w-full
+                        "
+                    >
+                        <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
+                            Join us for a Nutcracker workshop on Tuesday, November 26th!
+                        </div>
+                        <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
+                            Learn excerpts from The Nutcracker! The workshop will begin with a short warm-up, followed
+                            by learning the repertoire and a demonstration.
+                        </div>
+                        <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
+                                Date:
+                            </div>
+                            <div className="text-neutral-900 md:text-lg text-base">
+                                November 26th, 2024
+                            </div>
+                        </div>
+                        <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
+                                Time:
+                            </div>
+                            <div className="text-neutral-900 md:text-lg text-base">
+                                5:00-6:30
+                            </div>
+                        </div>
+                        <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
+                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
+                                Location:
+                            </div>
+                            <div className="text-neutral-900 md:text-lg text-base">
+                                LIFE 5
+                            </div>
+                        </div>
+                        <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
+                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
+                                UBC Drop-In:
+                            </div>
+                            <div className="text-neutral-900 md:text-lg text-base">
+                                $7 per class / free for members
+                            </div>
+                        </div>
+                        <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
+                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
+                                Non-UBC Drop-In:
+                            </div>
+                            <div className="text-neutral-900 md:text-lg text-base">
+                                $12 per class / free for members
+                            </div>
+                        </div>
+                        <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
+                            *Registration will open one week before the workshop date!
                         </div>
                     </div>
                 </div>
