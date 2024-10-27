@@ -67,6 +67,7 @@ const MembershipsClient = () => {
                             </div>
                         </div>
                         <div className="flex flex-row gap-2">
+                            {/*
                             <div
                                 className="
                                     text-neutral-100
@@ -97,6 +98,7 @@ const MembershipsClient = () => {
                                     Become a Member
                                 </a>
                             </div>
+                            */}
                             <div
                                 className="
                                     hover:text-neutral-100
@@ -117,6 +119,8 @@ const MembershipsClient = () => {
                                     text-neutral-900
                                     transition
                                     md:mt-10
+                                    md:ml-10
+                                    ml-6
                                     mt-10
                                 "
                                 onClick={() => router.push('/classes')}
@@ -125,7 +129,7 @@ const MembershipsClient = () => {
                             </div>
                         </div>
                         <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
-                            *Memberships can also be bought at any events or classes.
+                            *Memberships can be bought at any events or classes by cash or card.
                         </div>
                     </div>
                 </div>
@@ -167,6 +171,7 @@ const MembershipsClient = () => {
                             </div>
                         </div>
                         <div className="flex flex-row gap-2">
+                            {/*
                             <div
                                 className="
                                     text-neutral-100
@@ -197,6 +202,7 @@ const MembershipsClient = () => {
                                     Become a Member
                                 </a>
                             </div>
+                            */}
                             <div
                                 className="
                                     hover:text-neutral-100
@@ -217,6 +223,8 @@ const MembershipsClient = () => {
                                     text-neutral-900
                                     transition
                                     md:mt-10
+                                    md:ml-10
+                                    ml-6
                                     mt-10
                                 "
                                 onClick={() => router.push('/classes')}
@@ -225,7 +233,7 @@ const MembershipsClient = () => {
                             </div>
                         </div>                  
                         <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
-                            *Memberships can also be bought at any events or classes.
+                            *Memberships can be bought at any events or classes by cash or card.
                         </div>
                     </div>
                 </div>
