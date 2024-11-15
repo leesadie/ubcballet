@@ -95,36 +95,6 @@ const WorkshopsClient = () => {
                                 $12 per class / free for members
                             </div>
                         </div>
-                        <div
-                            className="
-                                text-neutral-100
-                                md:text-base
-                                text-sm
-                                bg-neutral-900
-                                outline
-                                outline-neutral-900
-                                outline-[1px]
-                                rounded-full 
-                                md:py-2
-                                py-1
-                                px-3 
-                                md:w-[100px]
-                                w-[90px]
-                                cursor-pointer
-                                hover:bg-neutral-100
-                                hover:text-neutral-900
-                                transition
-                                md:mt-10
-                                md:ml-10
-                                ml-6
-                                mt-10
-                            "
-                            onClick={() => {}}
-                        >
-                            <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/Pkb5qk2Z1BHerLrK6">
-                                Book Now
-                            </a>
-                        </div>
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
@@ -270,8 +240,35 @@ const WorkshopsClient = () => {
                                 $12 per class / free for members
                             </div>
                         </div>
-                        <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
-                            *Registration will open one week before the workshop date!
+                        <div
+                            className="
+                                text-neutral-100
+                                md:text-base
+                                text-sm
+                                bg-neutral-900
+                                outline
+                                outline-neutral-900
+                                outline-[1px]
+                                rounded-full 
+                                md:py-2
+                                py-1
+                                px-3 
+                                md:w-[100px]
+                                w-[90px]
+                                cursor-pointer
+                                hover:bg-neutral-100
+                                hover:text-neutral-900
+                                transition
+                                md:mt-10
+                                md:ml-10
+                                ml-6
+                                mt-10
+                            "
+                            onClick={() => {}}
+                        >
+                            <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/2VtqSwoWVAgpRLey8">
+                                Book Now
+                            </a>
                         </div>
                     </div>
                 </div>

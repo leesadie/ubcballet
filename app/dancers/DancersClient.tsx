@@ -31,10 +31,135 @@ const DancersClient = () => {
                 </div>
                 <hr className="border-neutral-300 mt-10 mx-10"/>
                 <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                    Coming Soon
+                    24-25 Company
                 </div>
-                <div className="text-neutral-900 md:text-lg text-base mt-5 md:mx-10 mx-6 mb-20">
-                    Meet our 24-25 season company dancers!
+                <div className="md:ml-10 ml-6 md:grid md:grid-cols-3 md:grid-rows-5 md:gap-5 gap-0 flex flex-col">
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Emily.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Lina.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Sofie.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Gabriella.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Nadia.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Yurina_company.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Kelsey.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Maria_company.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Laurenne_company.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Sian.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Alejandra.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Sienna_company.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Emma.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Ruby_company.svg'
+                            alt="Emily"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
                 </div>
                 {/*
                 <div

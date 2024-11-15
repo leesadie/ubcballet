@@ -30,9 +30,10 @@ const ShopLanding = () => {
                     <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
                         Term 1 Merch
                     </div>
-                    <div className="text-neutral-900 md:text-lg text-base mt-5 md:mx-10 mx-6">
-                        Hoodies and long sleeves this term!
+                    <div className="text-neutral-900 md:text-lg text-base mt-5 md:mx-10 mx-6 mb-20">
+                        Thank you for purchasing hoodies, long sleeves, and calendars this term to support us! Stay tuned for tote bags next term!
                     </div>
+                {/*
                 <div
                     className="
                         text-neutral-100
@@ -64,6 +65,7 @@ const ShopLanding = () => {
                         Order Now
                     </a>
                 </div>
+                */}
             </div>
         </Container>
     );
