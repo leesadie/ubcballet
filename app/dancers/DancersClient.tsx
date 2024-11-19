@@ -46,7 +46,7 @@ const DancersClient = () => {
                     <div className="md:col-span-1 md:row-span-1 md:w-full">
                         <Image 
                             src='/company/Lina.svg'
-                            alt="Emily"
+                            alt="Lina"
                             height={400}
                             width={400}
                             className="object-contain md:mt-10 mt-4 mb-5"
@@ -55,7 +55,7 @@ const DancersClient = () => {
                     <div className="md:col-span-1 md:row-span-1 md:w-full">
                         <Image 
                             src='/company/Sofie.svg'
-                            alt="Emily"
+                            alt="Sofie"
                             height={400}
                             width={400}
                             className="object-contain md:mt-10 mt-4 mb-5"
@@ -64,7 +64,7 @@ const DancersClient = () => {
                     <div className="md:col-span-1 md:row-span-1 md:w-full">
                         <Image 
                             src='/company/Gabriella.svg'
-                            alt="Emily"
+                            alt="Gabriella"
                             height={400}
                             width={400}
                             className="object-contain md:mt-10 mt-4 mb-5"
@@ -73,7 +73,7 @@ const DancersClient = () => {
                     <div className="md:col-span-1 md:row-span-1 md:w-full">
                         <Image 
                             src='/company/Nadia.svg'
-                            alt="Emily"
+                            alt="Nadia"
                             height={400}
                             width={400}
                             className="object-contain md:mt-10 mt-4 mb-5"
@@ -82,7 +82,7 @@ const DancersClient = () => {
                     <div className="md:col-span-1 md:row-span-1 md:w-full">
                         <Image 
                             src='/company/Yurina_company.svg'
-                            alt="Emily"
+                            alt="Yurina"
                             height={400}
                             width={400}
                             className="object-contain md:mt-10 mt-4 mb-5"
@@ -91,7 +91,7 @@ const DancersClient = () => {
                     <div className="md:col-span-1 md:row-span-1 md:w-full">
                         <Image 
                             src='/company/Kelsey.svg'
-                            alt="Emily"
+                            alt="Kelsey"
                             height={400}
                             width={400}
                             className="object-contain md:mt-10 mt-4 mb-5"
@@ -100,43 +100,7 @@ const DancersClient = () => {
                     <div className="md:col-span-1 md:row-span-1 md:w-full">
                         <Image 
                             src='/company/Maria_company.svg'
-                            alt="Emily"
-                            height={400}
-                            width={400}
-                            className="object-contain md:mt-10 mt-4 mb-5"
-                        />
-                    </div>
-                    <div className="md:col-span-1 md:row-span-1 md:w-full">
-                        <Image 
-                            src='/company/Laurenne_company.svg'
-                            alt="Emily"
-                            height={400}
-                            width={400}
-                            className="object-contain md:mt-10 mt-4 mb-5"
-                        />
-                    </div>
-                    <div className="md:col-span-1 md:row-span-1 md:w-full">
-                        <Image 
-                            src='/company/Sian.svg'
-                            alt="Emily"
-                            height={400}
-                            width={400}
-                            className="object-contain md:mt-10 mt-4 mb-5"
-                        />
-                    </div>
-                    <div className="md:col-span-1 md:row-span-1 md:w-full">
-                        <Image 
-                            src='/company/Alejandra.svg'
-                            alt="Emily"
-                            height={400}
-                            width={400}
-                            className="object-contain md:mt-10 mt-4 mb-5"
-                        />
-                    </div>
-                    <div className="md:col-span-1 md:row-span-1 md:w-full">
-                        <Image 
-                            src='/company/Sienna_company.svg'
-                            alt="Emily"
+                            alt="Maria"
                             height={400}
                             width={400}
                             className="object-contain md:mt-10 mt-4 mb-5"
@@ -145,7 +109,25 @@ const DancersClient = () => {
                     <div className="md:col-span-1 md:row-span-1 md:w-full">
                         <Image 
                             src='/company/Emma.svg'
-                            alt="Emily"
+                            alt="Emma"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Sian.svg'
+                            alt="Sian"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Alejandra.svg'
+                            alt="Alejandra"
                             height={400}
                             width={400}
                             className="object-contain md:mt-10 mt-4 mb-5"
@@ -154,7 +136,34 @@ const DancersClient = () => {
                     <div className="md:col-span-1 md:row-span-1 md:w-full">
                         <Image 
                             src='/company/Ruby_company.svg'
-                            alt="Emily"
+                            alt="Ruby"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Laurenne_company.svg'
+                            alt="Laurenne"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Sienna_company.svg'
+                            alt="Sienna"
+                            height={400}
+                            width={400}
+                            className="object-contain md:mt-10 mt-4 mb-5"
+                        />
+                    </div>
+                    <div className="md:col-span-1 md:row-span-1 md:w-full">
+                        <Image 
+                            src='/company/Elle.svg'
+                            alt="Elle"
                             height={400}
                             width={400}
                             className="object-contain md:mt-10 mt-4 mb-5"

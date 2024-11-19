@@ -60,7 +60,7 @@ const WorkshopsClient = () => {
                                 Date:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                October 22, 2024
+                                Tuesday, October 22nd
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -68,7 +68,7 @@ const WorkshopsClient = () => {
                                 Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                5:30-6:30
+                                5:30-6:30pm
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -131,7 +131,7 @@ const WorkshopsClient = () => {
                                 Date:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                November 5th, 2024
+                                Tuesday, November 5th
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -197,15 +197,15 @@ const WorkshopsClient = () => {
                             Join us for a Nutcracker workshop on Tuesday, November 26th!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Learn excerpts from The Nutcracker! The workshop will begin with a short warm-up, followed
-                            by learning the repertoire and a demonstration.
+                            Learn an excerpt of the Sugarplum Fairy Variation to get into the holiday spirit! 
+                            This workshop is for intermediate level dancers, and pointe shoes are not required.
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
                             <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
                                 Date:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                November 26th, 2024
+                                Tuesday, November 26th
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -213,7 +213,7 @@ const WorkshopsClient = () => {
                                 Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                5:00-6:30
+                                5:15-6:30pm
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
