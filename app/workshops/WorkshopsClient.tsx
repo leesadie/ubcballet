@@ -28,6 +28,14 @@ const WorkshopsClient = () => {
                     </div>
                 </div>
                 <hr className="border-neutral-300 mt-10 mx-10"/>
+                <div className={`text-neutral-900 md:text-xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
+                    Thank you for joining our Term 1 workshops; stay tuned for more in Term 2!
+                </div>
+                <hr className="border-neutral-300 mt-10 mx-10"/>
+                <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
+                    Previous workshops
+                </div>
+                <hr className="border-neutral-300 mt-10 mx-10"/>
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -98,7 +106,6 @@ const WorkshopsClient = () => {
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
-                
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -172,7 +179,6 @@ const WorkshopsClient = () => {
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
-                
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -240,6 +246,7 @@ const WorkshopsClient = () => {
                                 $12 per class / free for members
                             </div>
                         </div>
+                        {/*
                         <div
                             className="
                                 text-neutral-100
@@ -270,6 +277,7 @@ const WorkshopsClient = () => {
                                 Book Now
                             </a>
                         </div>
+                        */}
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
