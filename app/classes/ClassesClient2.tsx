@@ -55,7 +55,7 @@ const ClassesClient2 = () => {
                                 Days:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                Every Thursday
+                                Every Tuesday
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
@@ -63,7 +63,7 @@ const ClassesClient2 = () => {
                                 Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                6:00-7:00 PM
+                                6:45-8:00 PM
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
@@ -71,7 +71,7 @@ const ClassesClient2 = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                LIFE 5
+                                NEST 2301
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
@@ -140,7 +140,7 @@ const ClassesClient2 = () => {
                                 Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                7:30-9:00 PM
+                                6:00-7:30 PM
                             </div>
                         </div>
                         <div className="flex flex-row mt-3 md:mx-10 mx-6 gap-1">
