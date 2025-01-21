@@ -28,14 +28,11 @@ const WorkshopsClient = () => {
                     </div>
                 </div>
                 <hr className="border-neutral-300 mt-10 mx-10"/>
-                <div className={`text-neutral-900 md:text-xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                    Thank you for joining our Term 1 workshops; stay tuned for more in Term 2!
-                </div>
-                <hr className="border-neutral-300 mt-10 mx-10"/>
                 <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                    Previous workshops
+                    Upcoming Workshops
                 </div>
                 <hr className="border-neutral-300 mt-10 mx-10"/>
+                {/*
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -106,6 +103,7 @@ const WorkshopsClient = () => {
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
+                */}
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -127,7 +125,7 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Join us for a stretch/strength workshop on Tuesday, November 5th!
+                            Join us for a stretch/strength workshop on Tuesday, January 28th!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
                             Learn stretch and strengthening exercises specifically for ballet.
@@ -138,7 +136,7 @@ const WorkshopsClient = () => {
                                 Date:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                Tuesday, November 5th
+                                Tuesday, January 28th
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -154,7 +152,7 @@ const WorkshopsClient = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                LIFE 5
+                                NEST 2301
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
@@ -173,8 +171,42 @@ const WorkshopsClient = () => {
                                 $12 per class / free for members
                             </div>
                         </div>
-                        <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
-                            *Registration will open one week before the workshop date!
+                        <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
+                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
+                                Teacher:
+                            </div>
+                            <div className="text-neutral-900 md:text-lg text-base">
+                                Ruby Li
+                            </div>
+                        </div>
+                        <div
+                            className="
+                                text-neutral-100
+                                md:text-base
+                                text-sm
+                                bg-neutral-900
+                                outline
+                                outline-neutral-900
+                                outline-[1px]
+                                rounded-full 
+                                md:py-2
+                                py-1
+                                px-3 
+                                md:w-[100px]
+                                w-[90px]
+                                cursor-pointer
+                                hover:bg-neutral-100
+                                hover:text-neutral-900
+                                transition
+                                md:ml-10
+                                ml-6
+                                mt-5
+                            "
+                            onClick={() => {}}
+                        >
+                            <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSc3JjPfwb7jZZnLpr1NjNSMAzMKGotbZ2ZmE9jgUe3OUYOwJA/viewform?usp=dialog">
+                                Book Now
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -189,7 +221,7 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                            Nutcracker Workshop
+                            Valentine's Partnering Workshop
                         </div>
                     </div>
                     <div
@@ -200,18 +232,17 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Join us for a Nutcracker workshop on Tuesday, November 26th!
+                            Join us for a Valentine's Partnering workshop on Tuesday, February 11th!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Learn an excerpt of the Sugarplum Fairy Variation to get into the holiday spirit! 
-                            This workshop is for intermediate level dancers, and pointe shoes are not required.
+                            Bring a partner or a friend and learn basic partnering for Valentine's Day!
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
                             <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
                                 Date:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                Tuesday, November 26th
+                                Tuesday, February 11th
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -227,7 +258,7 @@ const WorkshopsClient = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                LIFE 5
+                                NEST 2301
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
@@ -245,6 +276,17 @@ const WorkshopsClient = () => {
                             <div className="text-neutral-900 md:text-lg text-base">
                                 $12 per class / free for members
                             </div>
+                        </div>
+                        <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
+                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
+                                Teacher:
+                            </div>
+                            <div className="text-neutral-900 md:text-lg text-base">
+                                Maria Djordevic
+                            </div>
+                        </div>
+                        <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
+                            *Registration will open one week before the workshop date!
                         </div>
                         {/*
                         <div
