@@ -179,6 +179,7 @@ const WorkshopsClient = () => {
                                 Ruby Li
                             </div>
                         </div>
+                        {/* 
                         <div
                             className="
                                 text-neutral-100
@@ -208,6 +209,7 @@ const WorkshopsClient = () => {
                                 Book Now
                             </a>
                         </div>
+                        */}
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
@@ -285,10 +287,6 @@ const WorkshopsClient = () => {
                                 Maria Djordevic
                             </div>
                         </div>
-                        <div className="text-neutral-900 md:text-lg text-sm pt-2 mb-10 md:mx-10 ml-6">
-                            *Registration will open one week before the workshop date!
-                        </div>
-                        {/*
                         <div
                             className="
                                 text-neutral-100
@@ -315,11 +313,10 @@ const WorkshopsClient = () => {
                             "
                             onClick={() => {}}
                         >
-                            <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/2VtqSwoWVAgpRLey8">
+                            <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdx2tdNU7Lw8xE7yZmLMAridFSMZNJT3GOULJIkVIwWa3UOMQ/viewform?usp=dialog">
                                 Book Now
                             </a>
                         </div>
-                        */}
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>

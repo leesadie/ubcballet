@@ -1,7 +1,7 @@
 'use client';
 
 import Container from "../Container";
-import { font_bold } from "@/app/fonts";
+import { font_bold, font_med } from "@/app/fonts";
 import Image from "next/image";
 
 const ShopLanding = () => {
@@ -28,12 +28,14 @@ const ShopLanding = () => {
                 </div>
                 <hr className="border-neutral-300 mt-10 mx-10"/>
                     <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                        Term 1 Merch
+                        Term 2 Merch
                     </div>
-                    <div className="text-neutral-900 md:text-lg text-base mt-5 md:mx-10 mx-6 mb-20">
-                        Thank you for purchasing hoodies, long sleeves, and calendars this term to support us! Stay tuned for tote bags next term!
+                    <div className="text-neutral-900 md:text-lg text-base mt-5 md:mx-10 mx-6">
+                        We have tote bags this term! Click the button below to shop now. After placing your order, you can pay and pick up your purchase at any of our classes or workshops.
                     </div>
-                {/*
+                    <div className={`text-neutral-900 md:text-lg text-base md:mx-10 mx-6 ${font_med.className}`}>
+                        Price: $20/each
+                    </div>
                 <div
                     className="
                         text-neutral-100
@@ -61,11 +63,10 @@ const ShopLanding = () => {
                     "
                     onClick={() => {}}
                 >
-                    <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/pWEuX4snJxCFaDbP8">
+                    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLScoQl0tUYF2okP3j4IHwYCfBW0eyj92tiP_X2ROje6tKgzTBA/viewform?usp=sf_link">
                         Order Now
                     </a>
                 </div>
-                */}
             </div>
         </Container>
     );
