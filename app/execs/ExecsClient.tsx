@@ -2,7 +2,7 @@
 
 import Container from "../components/Container";
 import Image from "next/image";
-import { font_bold } from "../fonts";
+import { font_bold, font_med } from "../fonts";
 
 const ExecsClient = () => {
     return (
@@ -23,6 +23,51 @@ const ExecsClient = () => {
                             <div className={`md:text-8xl text-4xl ${font_bold.className}`}>
                                 EXECS 24-25
                             </div>
+                        </div>
+                    </div>
+                </div>
+                <hr className="border-neutral-300 mt-10 mx-10"/>
+                <div>
+                    <div className={`text-neutral-900 md:text-2xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
+                        Join our 2025/2026 exec team!
+                    </div>
+                    <div className="flex flex-row">
+                        <div className="text-neutral-900 md:text-lg text-base mt-2 md:ml-10 ml-6">
+                            Check out our hiring package for more info
+                        </div>
+                        <div className="text-neutral-900 text-lg mt-2 ml-1">
+                            <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1sn4dX_oosufE5Yo5REqNau7Lk6BmRBQB/view?usp=drive_link" className="underline underline-offset-4 hover:opacity-50 transition">
+                                here
+                            </a>
+                        </div>
+                    </div>
+                    <div className={`text-neutral-900 md:text-lg text-base mt-4 md:ml-10 ml-6 ${font_med.className}`}>
+                        Important deadlines:
+                    </div>
+                    <div className="flex flex-row">
+                        <div className="text-neutral-900 md:text-lg text-base mt-1 md:ml-10 ml-6">
+                            President/VP Finance
+                        </div>
+                        <div className="text-neutral-900 text-lg mt-1 ml-1">
+                            <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSey1srU8Aa7xN4mNlH2vnkjUsu4k-juwm2HxyjWZcIaG3WNzQ/viewform?usp=dialog" className="underline underline-offset-4 hover:opacity-50 transition">
+                                election form
+                            </a>
+                        </div>
+                        <div className="text-neutral-900 md:text-lg text-base mt-1 ml-1">
+                            - Monday, February 24th 11:59PM
+                        </div>
+                    </div>
+                    <div className="flex flex-row">
+                        <div className="text-neutral-900 md:text-lg text-base mt-1 md:ml-10 ml-6">
+                            All other roles
+                        </div>
+                        <div className="text-neutral-900 text-lg mt-1 ml-1">
+                            <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSftauvT6rWk1q6tY6zB0dgUaGeIYxNDFgAIQeQv3AoCXEqseA/viewform?usp=dialog" className="underline underline-offset-4 hover:opacity-50 transition">
+                                application form
+                            </a>
+                        </div>
+                        <div className="text-neutral-900 md:text-lg text-base mt-1 ml-1">
+                            - Friday, March 4th 11:59PM
                         </div>
                     </div>
                 </div>

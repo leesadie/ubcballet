@@ -287,6 +287,7 @@ const WorkshopsClient = () => {
                                 Maria Djordevic
                             </div>
                         </div>
+                        {/*
                         <div
                             className="
                                 text-neutral-100
@@ -317,6 +318,7 @@ const WorkshopsClient = () => {
                                 Book Now
                             </a>
                         </div>
+                        */}
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
