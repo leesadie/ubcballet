@@ -32,7 +32,6 @@ const WorkshopsClient = () => {
                     Upcoming Workshops
                 </div>
                 <hr className="border-neutral-300 mt-10 mx-10"/>
-                {/*
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -43,7 +42,7 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className={`text-neutral-900 md:text-4xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
-                            Pointe Workshop
+                            Repertoire Workshop
                         </div>
                     </div>
                     <div
@@ -54,18 +53,18 @@ const WorkshopsClient = () => {
                         "
                     >
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Join us for a pointe workshop on Tuesday, October 22nd!
+                            Join us for a repertoire workshop on Tuesday, April 8th!
                         </div>
                         <div className="text-neutral-900 md:text-lg text-base md:mt-10 mt-5 md:mx-10 mx-6">
-                            Learn the fundamentals of pointe work! 
-                            No experience or pointe shoes necessary!
+                            Learn excerpts from various classical and neoclassical repertoire! 
+                            This workshop is for intermediate and advanced level dancers.
                         </div>
                         <div className="flex flex-row md:mt-10 mt-5 md:mx-10 mx-6 gap-1">
                             <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
                                 Date:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                Tuesday, October 22nd
+                                Tuesday, April 8th
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -73,7 +72,7 @@ const WorkshopsClient = () => {
                                 Time:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                5:30-6:30pm
+                                5:00-6:30pm
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 mx-6 gap-1">
@@ -81,7 +80,7 @@ const WorkshopsClient = () => {
                                 Location:
                             </div>
                             <div className="text-neutral-900 md:text-lg text-base">
-                                LIFE 5
+                                NEST 2301
                             </div>
                         </div>
                         <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
@@ -100,10 +99,47 @@ const WorkshopsClient = () => {
                                 $12 per class / free for members
                             </div>
                         </div>
+                        <div className="flex flex-row md:mt-3 md:mx-10 ml-6 gap-1">
+                            <div className={`text-neutral-900 md:text-lg text-base ${font_bold.className}`}>
+                                Teacher:
+                            </div>
+                            <div className="text-neutral-900 md:text-lg text-base">
+                                Sadie Lee
+                            </div>
+                        </div>
+                        <div
+                            className="
+                                text-neutral-100
+                                md:text-base
+                                text-sm
+                                bg-neutral-900
+                                outline
+                                outline-neutral-900
+                                outline-[1px]
+                                rounded-full 
+                                md:py-2
+                                py-1
+                                px-3 
+                                md:w-[100px]
+                                w-[90px]
+                                cursor-pointer
+                                hover:bg-neutral-100
+                                hover:text-neutral-900
+                                transition
+                                md:ml-10
+                                ml-6
+                                mt-5
+                            "
+                            onClick={() => {}}
+                        >
+                            <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfxHs6XWawlM1yIDN2N3JAHCmrlX3BnLmd078B8NjJckhkkrw/viewform?usp=dialog">
+                                Book Now
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
-                */}
+                {/*
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
                         className="
@@ -179,7 +215,7 @@ const WorkshopsClient = () => {
                                 Ruby Li
                             </div>
                         </div>
-                        {/* 
+                         
                         <div
                             className="
                                 text-neutral-100
@@ -209,7 +245,7 @@ const WorkshopsClient = () => {
                                 Book Now
                             </a>
                         </div>
-                        */}
+                        
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
@@ -287,7 +323,7 @@ const WorkshopsClient = () => {
                                 Maria Djordevic
                             </div>
                         </div>
-                        {/*
+                        
                         <div
                             className="
                                 text-neutral-100
@@ -318,10 +354,11 @@ const WorkshopsClient = () => {
                                 Book Now
                             </a>
                         </div>
-                        */}
+                        
                     </div>
                 </div>
                 <hr className="border-neutral-300 md:mt-10 mt-5 md:mx-10 mx-6"/>
+                
                 {/*
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-0 flex flex-col">
                     <div
