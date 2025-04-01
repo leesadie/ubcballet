@@ -26,6 +26,7 @@ const ExecsClient = () => {
                         </div>
                     </div>
                 </div>
+                {/*
                 <hr className="border-neutral-300 mt-10 mx-10"/>
                 <div>
                     <div className={`text-neutral-900 md:text-2xl md:ml-10 md:mt-10 text-2xl ml-6 mt-4 ${font_bold.className}`}>
@@ -71,6 +72,7 @@ const ExecsClient = () => {
                         </div>
                     </div>
                 </div>
+                */}
                 <hr className="border-neutral-300 mt-10 mx-10"/>
                 <div className="md:grid md:grid-cols-2 md:grid-rows-2 md:gap-96 gap-0 flex flex-col">
                     <div
